@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Texas State Roleplay Utilities","Watching Texas State Roleplay Utilities"];
+const statusMessages = ["Stanford Secondary School Ultilities","Stanford Secondary School Ultilities"];
 
 
 let currentIndex = 0;
